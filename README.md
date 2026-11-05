@@ -54,7 +54,7 @@ Players make high-stakes decisions across modular chapters on:
 
 Structure is flexible (light gating, sequence-breaking possible). There are no good endings. All paths lead to **bittersweet endings** with meaningful trade-offs, faction consequences, unrest, alliances, and political shifts.
 
-Strong emphasis on side content, companion relationships, Calethina), faction reputation, and player-driven philosophy.
+Strong emphasis on side content, companion relationships, faction reputation, and player-driven philosophy.
 
 ### Key Features & Design Pillars
 * Deep, synergistic character builds with distinct playstyles
