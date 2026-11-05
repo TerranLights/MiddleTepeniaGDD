@@ -65,11 +65,11 @@ Strong emphasis on side content, companion relationships, faction reputation, an
 * Continuity with planned “Outer Tepenia” real-time games (same stat/AP philosophy)
 
 ### Current Focus Areas (from GDD priorities)
-* Questline design
-* Character development — companion personalities, named Doll backstories, Enneagram completion pass
 * World and faction design
+* Character development — companion personalities, named Doll backstories, Enneagram completion pass
 * Location completion — location documentation template and demonyms TBD
 * Game mechanics — first 50 remaining perks, Might/Nerve design pass
+* Questline design
 
 ---
 
