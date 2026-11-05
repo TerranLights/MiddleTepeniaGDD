@@ -10,11 +10,8 @@
 * **Scope:** Single-player RPG focused on character progression, narrative reactivity, and maximum player agency. Designed to be highly moddable.
 
 ### Setting & Lore (Bird's-Eye)
-A global nuclear war in 2083 reshaped Earth. Shortly afterward, the first fully sentient robot was created at Underwater Research Union: Kappa, off the coast of the now-independent Republic of Hawaii. Over centuries, human-robot relations evolved from partnership to conflict, culminating in the **Falkland Treaty (June 21, 2564)** which exiled robots (and their human allies) to Antarctica, forming the **Federation of Tepenia**.
 
-*(We are, today, closer to the birth of William Shakespeare (1564) than we are to the signing of the Falkland Treaty — a useful scale check for present-day Tepenia: any city's real-world founding nation is a GPS coordinate only, never a cause of its culture. Sharper still: real-world Antarctic stations mostly date to the 1957-58 International Geophysical Year, ~600-660 years before the Falkland Treaty — meaning the station's national origin was already ancient history to the 2564 exiles themselves, before Tepenian culture had a single day to exist independently. See `Founding_Nation_Bug_Investigation_Methodology.md`.)*
-
-Tepenians built a new society, eventually expanding into space. Further wars forced many off-world, leaving behind a tense, resource-scarce world where players navigate the remnants of human and robot civilizations in and around the Antarctic territories, particularly in the city of **Concordia** — the largest surviving city in the former Tepenian Federation and the game's primary setting. Two other cities survive at meaningful scale (Janbogo on the Ross Sea coast and Byrd in West Antarctica), but Concordia is the last functioning large urban center.
+Following the ending events of the [Cryptograph Helix](github.com/TerranLights/TheCryptographHelixDD) novel series, the denizens of the in-game world live on a post-war Mars. At this time, the exact, precise current conditions that the characters in the in-game world live in are yet TBD (as at the time of this writing and commit, the exact, precise, structure, course-of-events, and outcome of the novel series has yet to be written). For a stylistic and/or thematic basis-of-reference, consult the [Inner Tepenia game design docs](github.com/TerranLights/InnerTepeniaGDD) repo.
 
 ### Core Gameplay Mechanics
 **Action Point System** (inspired by classic Fallout, future-proofed for real-time sequels)
